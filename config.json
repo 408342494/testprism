@@ -1,0 +1,8 @@
+{
+  "pages": {
+    "index": {
+      "template": "index.html"
+    }
+  },
+  "cdnCacheTime": 60
+}
